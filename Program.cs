@@ -13,7 +13,7 @@ namespace CovidSafetyHelper
             string response;
             string jobrole;
 
-            Console.WriteLine("Hey how are you doing! I'm here to advise you if it is best for you to be outside or inside during this quarantine period.");
+            Console.WriteLine("Hey how are you doing! I'm here to advise you if it is best for you to be outside or inside during this lockdown period.");
             do
             {
                 Console.WriteLine("Are you currently inside or outside ?");
